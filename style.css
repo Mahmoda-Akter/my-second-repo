@@ -1,3 +1,14 @@
 h1{
     color: brown;
+    text-align: center;
+}
+body{
+    background-color: rgb(99, 155, 219);
+}
+button{
+    height: 40px;
+    width: 160px;
+    text-align: center;
+    margin-left: 200px;
+    
 }
